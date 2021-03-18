@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arashmad
 - 👀 I’m interested in Javascript and Python
-- 🌱 I’m currently learning Tornado and NginX
+- 🌱 I’m currently learning Docker, Tornado and NginX
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
