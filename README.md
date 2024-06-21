@@ -6,9 +6,14 @@ Full-stack Web Developer
 
 I am full-stack web developer with the background in geo-spatial information systems (GIS). I graduated from University of Tehran in Iran in 2014.
 
-* 🌍  I'm based in Potsdam, Germany.
-* ✉️  You can contact me at [arashmad.dev@gmail.com](mailto:arashmad.dev@gmail.com)
-* 🧠  I'm learning EC@ and Lambda features on AWS // Test Driven Development // CICD pipelines
+* 🏠  I'm based in Potsdam, Germany.
+* 📧  You can contact me at [arashmad.dev@gmail.com](mailto:arashmad.dev@gmail.com)
+* 🤓  What I'm learning now are:
+    - 👉 EC2 and Lambda features on AWS
+    - 👉 GitHub Actions
+    - 🌶 Design Patterns
+    - 🌶 Test Driven Development
+    - 🌶 CICD pipelines
 * 🤝  I'm open to collaborating on Geo-spatial application development in python and/or javascript
 
 ### Skills
@@ -25,11 +30,12 @@ I am full-stack web developer with the background in geo-spatial information sys
 
 ### Badges
 
-<b>My GitHub Stats</b>
+Nothing to show ...
 
-<a href="http://www.github.com/arashmad"><img src="https://github-readme-stats.vercel.app/api?username=arashmad&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="arashmad's GitHub stats" /></a>
-
-<a href="https://github.com/arashmad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arashmad&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-Created by https://www.profileme.dev/create-profile
+### GitHub Status
+<details close>
+  <summary>Click to see more</summary>
+  <a href="http://www.github.com/arashmad"><img src="https://github-readme-stats.vercel.app/api?username=arashmad&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="arashmad's GitHub stats" /></a>
+  <a href="http://www.github.com/arashmad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arashmad&stroke=ffffff&background=181824&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/arashmad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arashmad&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</details>
