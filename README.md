@@ -9,7 +9,7 @@ I am full-stack web developer with the background in geo-spatial information sys
 * 🏠  I'm based in Potsdam, Germany.
 * 📧  You can contact me at [arashmad.dev@gmail.com](mailto:arashmad.dev@gmail.com)
 * 🤓  What I'm learning now are:
-    - 👉 EC2 and Lambda features on AWS
+    - 👉 CodeDeploy + EC2 and Lambda features on AWS
     - 👉 GitHub Actions
     - 🌶 Design Patterns
     - 🌶 Test Driven Development
