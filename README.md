@@ -1,6 +1,6 @@
 # Hi, I'm Arash Madadi
 
-## Full-Stack Developer | Geospatial Applications
+## Full-Stack Developer | Geospatial Applications | AI Coding
 
 I am a full-stack developer with a geospatial/GIS background, focused on building web applications, APIs, and data-driven tools for spatial data visualization, analysis, and decision support.
 
