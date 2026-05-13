@@ -13,6 +13,5 @@ My experience combines frontend development, backend API design, and geospatial 
 **Backend:** FastAPI, REST APIs, SQLAlchemy, Pydantic  
 **Databases:** PostgreSQL, PostGIS, relational data modeling  
 **Geospatial:** PostGIS, GeoPandas, Shapely, Rasterio, Mapbox GL, Leaflet, OpenLayers, vector tiles  
-**Tools:** Docker, Git, GitHub Actions, GitLab CI, pytest
-**AI-assisted Development**: Cursor AI, Codex Cloud and skills, AI-assisted prototyping and code review with human ownership
-
+**Tools:** Docker, Git, GitHub Actions, GitLab CI, pytest  
+**AI-assisted Development:**: Cursor AI, Codex Cloud and skills, AI-assisted prototyping and code review with human ownership
