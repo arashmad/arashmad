@@ -18,17 +18,29 @@ My experience combines frontend development, backend API design, and geospatial 
 
 
 ## Featured Portfolio Project
-
-### GeoInsight API
-
-A backend-focused geospatial API project built with FastAPI, PostgreSQL/PostGIS, SQLAlchemy, Alembic, Docker, and pytest.
-
-The project is designed to manage projects and areas of interest, ingest geospatial datasets, and support async vector/raster analysis pipelines for spatial intelligence and decision-support workflows.
-
-**Repository:** [arashmad/geoInsight-api](https://github.com/arashmad/geoInsight-api)
-
-**Project boards:**
-
-- [GeoInsight API - Phase I](https://github.com/users/arashmad/projects/6) — API foundation, database setup, migrations, project/AOI CRUD, geometry validation, and test coverage.
-- [GeoInsight API - Sentinel2 Data Integration](https://github.com/users/arashmad/projects/8) — Sentinel-2 ingestion planning and integration work for remote-sensing data.
-- [GeoInsight API - Sentinel2 Data Processing](https://github.com/users/arashmad/projects/9) — processing workflow planning for Sentinel-2 based analysis.
+<table>
+  <tr>
+    <td width="100%">
+      <h3>GeoInsight API</h3>
+      <p>
+        Backend-focused geospatial API built with <strong>FastAPI</strong>,
+        <strong>PostgreSQL/PostGIS</strong>, <strong>SQLAlchemy</strong>,
+        <strong>Alembic</strong>, <strong>Docker</strong>, and <strong>pytest</strong>.
+      </p>
+      <p>
+        Designed to manage projects and areas of interest, ingest geospatial datasets,
+        and support async vector/raster analysis pipelines for spatial intelligence workflows.
+      </p>
+      <p>
+        <strong>Repository:</strong>
+        <a href="https://github.com/arashmad/geoInsight-api">arashmad/geoInsight-api</a>
+      </p>
+      <p>
+        <strong>Project boards:</strong><br />
+        • <a href="https://github.com/users/arashmad/projects/6">Phase I</a><br />
+        • <a href="https://github.com/users/arashmad/projects/8">Sentinel2 Data Integration</a><br />
+        • <a href="https://github.com/users/arashmad/projects/9">Sentinel2 Data Processing</a>
+      </p>
+    </td>
+  </tr>
+</table>
