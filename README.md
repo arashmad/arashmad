@@ -1,6 +1,6 @@
 # Hi, I'm Arash Madadi
 
-## Full-Stack Developer | Geospatial Applications | AI Coding
+## Geospatial Full-Stack Developer | Python/FastAPI | React/TypeScript :earth_americas: :artificial_satellite: :computer: :world_map:
 
 I am a full-stack developer with a geospatial/GIS background, focused on building web applications, APIs, and data-driven tools for spatial data visualization, analysis, and decision support.
 
@@ -14,10 +14,10 @@ My experience combines frontend development, backend API design, and geospatial 
 **Databases:** PostgreSQL, PostGIS, relational data modeling  
 **Geospatial:** PostGIS, GeoPandas, Shapely, Rasterio, Mapbox GL, Leaflet, OpenLayers, vector tiles  
 **Tools:** Docker, Git, GitHub Actions, GitLab CI, pytest  
-**AI-assisted Development:**: Cursor AI, Codex Cloud and skills, AI-assisted prototyping and code review with human ownership
-
+**AI-assisted Development:** Cursor AI, Codex Cloud and skills, AI-assisted prototyping and code review with human ownership
 
 ## Featured Portfolio Project
+
 <table>
   <tr>
     <td width="100%">
@@ -36,10 +36,10 @@ My experience combines frontend development, backend API design, and geospatial 
         <a href="https://github.com/arashmad/geoInsight-api">arashmad/geoInsight-api</a>
       </p>
       <p>
-        <strong>Project boards:</strong><br />
-        • <a href="https://github.com/users/arashmad/projects/6">Phase I</a><br />
-        • <a href="https://github.com/users/arashmad/projects/8">Sentinel2 Data Integration</a><br />
-        • <a href="https://github.com/users/arashmad/projects/9">Sentinel2 Data Processing</a>
+        <strong>Development phases:</strong><br />
+        • <a href="https://github.com/users/arashmad/projects/6">Foundation - Phase 1 (In Progress)</a><br />
+        • <a href="https://github.com/users/arashmad/projects/8">Sentinel-2 Data Integration (Upcoming...)</a><br />
+        • <a href="https://github.com/users/arashmad/projects/9">Sentinel-2 Data Processing (Upcoming...)</a>
       </p>
     </td>
   </tr>
